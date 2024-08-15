@@ -1,8 +1,13 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.yxsco.com/"
+    "icon": "CompactDisc",
+    "name": "影视",
+    "link": "https://www.yxsco.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.yxsco.com/"
   },
   {
     "icon": "Cloud",
@@ -10,9 +15,9 @@
     "link": "https://d.yxsco.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.yxsco.com/"
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.yxsco.com/"
   },
   {
     "icon": "Fire",
